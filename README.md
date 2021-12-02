@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tsetsko
+- 👀 I’m interested in Data Analysis and Data Science
+- 🌱 I’m currently learning Python, Selenium, BeautifulSoup and Pandas
+- 💞️ I’m looking to collaborate on Data Mining and Data Analysis projects
+- 📫 How to reach me: tsetsko94@g*,m*il.com
